@@ -73,12 +73,12 @@ MediaElementSource
 
 ## 🎧 Presets
 
-| Preset | Bass | Treble | Best For |
-|--------|------|--------|----------|
-| 🎧 General | 0 | 0 | Everyday browsing |
-| 🎙️ Speech | -5 | +8 | Podcasts, lectures, calls |
-| 🎵 Music | +6 | +4 | Songs, concerts, playlists |
-| 🎬 Movie | +8 | -3 | Movies, shows, trailers |
+| Preset |  Best For |
+|--------|----------|
+| 🎧 General | Everyday browsing |
+| 🎙️ Speech | Podcasts, lectures, calls |
+| 🎵 Music | Songs, concerts, playlists |
+| 🎬 Movie | Movies, shows, trailers |
 
 ---
 
